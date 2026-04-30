@@ -1,0 +1,5 @@
+{
+  "name": "SkeuoPrompt",
+  "description": "A skeuomorphic image prompt generator that expands simple ideas into detailed prompts.",
+  "requestFramePermissions": []
+}
